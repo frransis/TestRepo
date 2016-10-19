@@ -2,3 +2,4 @@ Shoppa
 Milk
 Banana
 Tomato
+Potato
